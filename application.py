@@ -5,7 +5,7 @@ import logging.handlers
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
-# Handler 
+# Handler
 LOG_FILE = '/var/log/uwsgi/sample-app.log' # /var/log/uwsgi is the default log path for Docker preconfigured python containers
 handler = logging.handlers.RotatingFileHandler(LOG_FILE, maxBytes=1048576, backupCount=5)
 handler.setLevel(logging.INFO)
@@ -110,8 +110,8 @@ welcome = """
     <h1>Congratulations</h1>
     <p>Your first AWS Elastic Beanstalk Python Application is now running on your own dedicated environment in the AWS Cloud</p>
   </div>
-  
-  <div class="linksColumn"> 
+
+  <div class="linksColumn">
     <h2>What's Next?</h2>
     <ul>
       <li><a href="http://aws.amazon.com/elasticbeanstalk/ug/">Learn how to build, deploy and manage your own applications using AWS Elastic Beanstalk</a></li>
@@ -119,7 +119,7 @@ welcome = """
       <li><a href="http://aws.amazon.com/elasticbeanstalk/deployment/">Learn how to create new application versions</a></li>
       <li><a href="http://aws.amazon.com/elasticbeanstalk/environments/">Learn how to manage your application environments</a></li>
     </ul>
-    <h2>Python 3 Samples</h2>
+    <h2>Python 4 Samples</h2>
     <ul>
       <li><a href="https://github.com/awslabs/eb-py-flask-signup/tree/python3">A sample application using Flask and Bootstrap</a></li>
     </ul>
