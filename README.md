@@ -7,3 +7,9 @@
 
 ### www.bindex.tk
 [New Short Link to live Project](http://bindex.tk)
+
+## Documentation
+
+[User Documentation]()
+
+[Developer Documentation]()
