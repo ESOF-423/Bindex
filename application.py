@@ -119,7 +119,7 @@ welcome = """
       <li><a href="http://aws.amazon.com/elasticbeanstalk/deployment/">Learn how to create new application versions</a></li>
       <li><a href="http://aws.amazon.com/elasticbeanstalk/environments/">Learn how to manage your application environments</a></li>
     </ul>
-    <h2>Python 4 Samples</h2>
+    <h2>Python 3 Samples</h2>
     <ul>
       <li><a href="https://github.com/awslabs/eb-py-flask-signup/tree/python3">A sample application using Flask and Bootstrap</a></li>
     </ul>
