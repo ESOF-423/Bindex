@@ -10,6 +10,6 @@
 
 ## Documentation
 
-[User Documentation]()
+[User Documentation](https://github.com/ESOF-423/Bindex/blob/master/Documentation/UserDocumentation.md)
 
-[Developer Documentation]()
+[Developer Documentation](https://github.com/ESOF-423/Bindex/blob/master/Documentation/DeveloperDocumentation.md)
