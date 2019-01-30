@@ -50,6 +50,23 @@ Contains all Documentation files.
 > [/tests/python](<https://github.com/ESOF-423/Bindex/tree/master/tests/python>)
 
 
+ TO BE CONTINUED... DUN DUN DUN
+
+#### How to Build the Software
+
+TRENT, HELP ME. PLZ.
+
+#### How to Test the Software
+
+Something w/ Travis.. I heard he's a cool dude (or gal)
+
+#### How to Release the Software
+
+UM
+
+#### Adding to outstanding/Resolved Bug List
+
+makin a list, and checkin it twice... gonna find out who's buggy or nice
 
 ---
 ## Create your own Bindex
