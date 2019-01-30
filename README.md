@@ -1,12 +1,11 @@
-# Bindex
+# Bindex [![Build Status](https://travis-ci.com/ESOF-423/Bindex.svg?branch=master)](https://travis-ci.com/ESOF-423/Bindex)
 
 ## A system for simplifying the day-to-day responsibilities of a rural senior center
 
-### http://bindex-env.mnh3v2fiz9.us-west-2.elasticbeanstalk.com/
-[Original link to live Project](http://Bindex-env.mnh3v2fiz9.us-west-2.elasticbeanstalk.com)
+[bindex.tk](http://bindex.tk)
 
-### www.bindex.tk
-[New Short Link to live Project](http://bindex.tk)
+<!-- [uglier but more reliable link to project](http://Bindex-env.mnh3v2fiz9.us-west-2.elasticbeanstalk.com) -->
+
 
 ## Documentation
 
