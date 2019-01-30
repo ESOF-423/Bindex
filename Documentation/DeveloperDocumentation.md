@@ -34,6 +34,24 @@ All software comes to an end; whether code is developed into a final version or 
 
 Bindex is an open-source project written for a software engineering class at Montana State University by students.
 
+#### Latest Stable Versions
+
+The latest stable version of Bindex will be the code hosted on the [master branch](<https://github.com/ESOF-423/Bindex/tree/master>) on the github repository. All code that is client-ready will be pushed to the master branch.
+
+#### Development Versions
+
+Development Versions are done on the [dev branch](<https://github.com/ESOF-423/Bindex/tree/dev>) in the github repository. Versions of code that are currently being tested for their potential to be released are hosted here.
+
+#### Directory Structure
+> [/Documentation](<https://github.com/ESOF-423/Bindex/tree/master/Documentation>)
+
+Contains all Documentation files.
+
+> [/tests/python](<https://github.com/ESOF-423/Bindex/tree/master/tests/python>)
+
+
+
+---
 ## Create your own Bindex
 
 
