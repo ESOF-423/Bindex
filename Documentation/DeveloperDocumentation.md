@@ -54,7 +54,11 @@ Contains all Documentation files.
 
 #### How to Build the Software
 
-TRENT, HELP ME. PLZ.
+To get a local instance of our app running on your machine:
+1. Make sure you have [Node](https://nodejs.org/en/download/) and [npm](https://docs.npmjs.com/cli/install) installed on your machine. To check if you already have them, run `node -v` or `npm -v` to check the version you are running.
+2. In a terminal, run `git clone https://github.com/ESOF-423/Bindex.git`
+3. run `npm install`
+4. run `npm start`
 
 #### How to Test the Software
 
