@@ -2,7 +2,7 @@
 
 # What is Bindex.tk?
 
-Bindex.tk is a web application meant to make the task of managing senior community centers simples. We hope the final product will serve purposes such as:
+Bindex.tk is a web application meant to make the task of managing senior community centers simple. We hope the final product will serve purposes such as:
 * Administrator tools
 
    With Administrator tools, you'll be able to manage members and volunteers and all of their information.
