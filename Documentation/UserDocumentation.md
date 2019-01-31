@@ -1,5 +1,17 @@
 # User Documentation
 
+# What is Bindex.tk?
+
+Bindex.tk is a web application meant to make the task of managing senior community centers simples. We hope the final product will serve purposes such as:
+* Administrator tools
+   With Administrator tools, you'll be able to manage members and volunteers and all of their information.
+   You'll also be able to use search tools to quickly access this information needed for printing forms, writing reports, and grant.
+   In addition, you'll be able to create activities, services and meals that members can sign up for.
+* Volunteer tools
+   Volunteers will be able to log their hours, sign up for a specific position, and access basic information for members.
+* Member tools
+   Members will be able to view and edit their own information, sign up for and check into activities/meals
+
 # How to Use Bindex.tk
 
 This is the documentation for all users of bindex.tk on how to use the website. Instructions include commonly performed user actions, as well as a Frequently Asked Question [FAQ](#faq) section
